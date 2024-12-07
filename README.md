@@ -67,9 +67,10 @@ Publish the website in the given URL.
         </div>
     </body>
     </html>
-    ```
+```
+ 
 
-## SERVER SIDE PROCESSING:
+ # # SERVER SIDE PROCESSING:
 ```
     <script>
             function check() {
@@ -81,9 +82,7 @@ Publish the website in the given URL.
             }
     </script>
 
-```
-
-
+ ```
 ## HOMEPAGE:
 ![alt text](<../Screenshot 2024-12-07 102929.png>)
 
